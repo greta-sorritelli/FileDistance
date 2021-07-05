@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Greta/CLionProjects/filedistance/apply.h
+
+C:/Users/Greta/CLionProjects/filedistance/distance.h
+
+C:/Users/Greta/CLionProjects/filedistance/io.h
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+limits.h
+-
+time.h
+-
+distance.h
+C:/Users/Greta/CLionProjects/filedistance/distance.h
+apply.h
+C:/Users/Greta/CLionProjects/filedistance/apply.h
+search.h
+C:/Users/Greta/CLionProjects/filedistance/search.h
+
+C:/Users/Greta/CLionProjects/filedistance/main.c
+io.h
+C:/Users/Greta/CLionProjects/filedistance/io.h
+
+C:/Users/Greta/CLionProjects/filedistance/search.c
+io.h
+C:/Users/Greta/CLionProjects/filedistance/io.h
+
+C:/Users/Greta/CLionProjects/filedistance/search.h
+dirent.h
+-
+

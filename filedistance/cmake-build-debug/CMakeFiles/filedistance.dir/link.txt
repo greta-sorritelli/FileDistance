@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2019.3.4\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\filedistance.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\filedistance.dir/objects.a @CMakeFiles\filedistance.dir\objects1.rsp
+C:\MinGW\bin\gcc.exe -g   -Wl,--whole-archive CMakeFiles\filedistance.dir/objects.a -Wl,--no-whole-archive  -o filedistance.exe -Wl,--out-implib,libfiledistance.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\filedistance.dir\linklibs.rsp
